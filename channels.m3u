@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name=“ESPN 1" group-title="Sports",Channel 1
+http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
+
+#EXTINF:-1 tvg-name=“ESPN 2" group-title="News",Channel 2
+http://1tv41.icu:8080/live/43761449506/smallwood/2210.m3u8
