@@ -1,7 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name=“ESPN 1" group-title="Sports",Channel 1
-http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
+#EXTINF:-1 iso-id="US" type-id="#004" tvg-logo="https://i.postimg.cc/4xFbVxYg/NBA-Game-Placeholder.png" group-title="Sports",Knicks @ Spurs
+XmoUNb2=|CWo=?*WN2hAV{B<-YcFnMVJ~Q8Eio=|XmB8KVRCb2RdQ@SG5
 
-#EXTINF:-1 tvg-name=“ESPN 2" group-title="News",Channel 2
-http://1tv41.icu:8080/live/43761449506/smallwood/2210.m3u8
+#EXTINF:-1 iso-id="US" type-id="#004" tvg-logo="https://i.postimg.cc/4xFbVxYg/NBA-Game-Placeholder.png" group-title="Sports",Knicks @ Spurs (2)
+XmoUNb2=|CcXu)_b8v5RbaZoXZft38WiDfEX=7_IV`yP+Ze?t9FKA>hXk;=jaA<HKaA9(DWmR%)Ju(
+
+#EXTINF:-1 iso-id="US" type-id="#004" tvg-logo="https://i.postimg.cc/4xFbVxYg/NBA-Game-Placeholder.png" group-title="Sports",Knicks @ Spurs (3)
+XmoUNb2=|CWNc_;E^uovb98cLVQnvSbaG{3Z7ne_aA<HKaA9(DWmR%)Ju(
+
+#EXTINF:-1 iso-id="US" type-id="#004" tvg-logo="https://i.postimg.cc/4xFbVxYg/NBA-Game-Placeholder.png" group-title="Sports",Knicks @ Spurs (4)
+XmoUNb2=|CWo&79crI;aFJX5tWp-g~Wo~0>VJ>iJa3FADa&u)>a%?>^
+
+#EXTINF:-1 iso-id="US" type-id="#004" tvg-logo="https://i.postimg.cc/4xFbVxYg/NBA-Game-Placeholder.png" group-title="Sports",Knicks @ Spurs (5)
+XmoUNb2=|CWNc_;E^uovb98cLVQnvSbaG{3Z7nr1E^ugYAaG%Fb7fU>Y&|j
+
+#EXTINF:-1 iso-id="US" type-id="#004" tvg-logo="https://i.postimg.cc/4xFbVxYg/NBA-Game-Placeholder.png" group-title="Sports",Knicks @ Spurs (6)
+XmoUNb2=|Cb98cLVQq6RV`Xl1WpXcNZDM6)FJovnH7;;ya3FADa&u)>a%?>^
